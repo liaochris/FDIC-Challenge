@@ -16,7 +16,7 @@ For this challenge, I obtained data from three different sources.
 
 1. FDIC Academic Challenge Data.
 
-First, I used the FDIC Academic Challenge data that was provided to us by the FDIC. This data consisted of reports on all FDIC-insured banks across the United States from 1994 to 2018. These reports included data such as the bank name, year, whether it was a community bank, amount of loans given out, amount of equity held, amount of loans outstanding, etc. The codebook for the data, **data-codebook.csv** contains more detailed information on the definition of each of the bank metrics and which metrics were included. This file is **ACdata.csv.zip** and is zipped because of github upload requirements dictating all files uploaded to be less than 100 megabytes. Other files ending in .zip were also zipped to allow their upload. The FDIC challenge data can be found at this [link] in csv format [1]. 
+First, I used the FDIC Academic Challenge data that was provided to us by the FDIC. This data consisted of reports on all FDIC-insured banks across the United States from 1994 to 2018. These reports included data such as the bank name, year, whether it was a community bank, amount of loans given out, amount of equity held, amount of loans outstanding, etc. The codebook for the data, **data-codebook.csv** contains more detailed information on the definition of each of the bank metrics and which metrics were included. This file is **ACdata.csv.zip** and is zipped because of github upload requirements dictating all files uploaded to be less than 100 megabytes. Other files ending in .zip were also zipped to allow their upload. The FDIC challenge data can be found in csv format at this [link][1]. 
 
 2. Small business Data
 
